@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "272176787666",
+    "project_id": "magnetic-e6255",
+    "storage_bucket": "magnetic-e6255.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272176787666:android:9b76322d70fd90bef97d0b",
+        "android_client_info": {
+          "package_name": "com.example.magnetic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272176787666-vgqgfagecg559carn6av4k0gg04c1jfh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI9RulJKLD-VHMQ-KS8az1e1IBbEDKgWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272176787666-vgqgfagecg559carn6av4k0gg04c1jfh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "272176787666-midqvt75gnaseh644dhls07emsi2nrs9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.magnetic"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
